@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 20 11:08:24 2025
-
-@author: User
-"""
-
+streamlit
+scikit-learn
+numpy
+pandas
